@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "ogogo/forgotpassword": "dev-master",
+        "ogogo/forgotpassword": "1.1",
         "doctrine/doctrine-orm-module": "*"
     },
     "autoload": {
